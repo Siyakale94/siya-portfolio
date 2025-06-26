@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Siya's Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I'm Siya</h1>
+  <p>Computer Engineering Student | Python & C++ Enthusiast</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>C++</li>
+    <li>HTML/CSS</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>Solar Powered Water Boat</li>
+    <li>AI in Financial Management</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: siya@example.com</p>
+</body>
+</html>
